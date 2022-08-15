@@ -7,6 +7,7 @@ int main()
   cout<<"Enter String: ";
   cin>>s;
   int flag=1;
+  //Here considering only a and b's as input
   for(int i=0;i<s.length();i++)
   {
       if(s[i]== 'a' || s[i]=='b')
