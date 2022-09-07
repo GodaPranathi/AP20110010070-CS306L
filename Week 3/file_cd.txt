@@ -1,0 +1,7 @@
+keyword:	int
+identifier:	x
+delimiter:	;
+identifier:	x
+relational_operator:	<
+number:	10
+delimiter:	;
